@@ -13,7 +13,7 @@ This resource requires the ESX framework and it's dependencies.
 
 **Install:** 
 * Drop folder into your resources directory 
-* add "start esx_anticheat" to your server.cfg
+* add "start ToxicAntiCheat" to your server.cfg
 * add the sql file to your database and start your server.
 
 **PLEASE NOTE: If you have installed the tables for FiveM-BanSql before, you can skip running the sql as it they are the same.**
