@@ -1,0 +1,6 @@
+system/versioncheck.lua
+toxic-anticheat.sql
+toxic-anticheat-cl.lua
+toxic-anticheat-sv.lua
+__resource.lua
+system/version
