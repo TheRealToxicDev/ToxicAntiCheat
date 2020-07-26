@@ -20,7 +20,8 @@ server_scripts {
 	'@mysql-async/lib/MySQL.lua',
 	'locales/en.lua',
 	'config.lua',
-    'toxic-anticheat-sv.lua'
+        'toxic-anticheat-sv.lua'
+        'system/versioncheck.lua'
 }
 
 dependencies {
