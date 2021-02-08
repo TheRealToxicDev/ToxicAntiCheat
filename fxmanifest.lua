@@ -19,6 +19,8 @@ server_scripts {
 
     'config.lua',
 
+    'system/versioncheck.lua',
+
     'server/common.lua',
     'server/functions.lua',
 
