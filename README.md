@@ -9,8 +9,12 @@ Not following all the instructions will result in a possible ban, this resource 
 
 Using this resource is at your own risk it is not a magical resource that will stop all hackers.
 
-### Requirements
+---
+
+## Requirements
 - None
+
+---
 
 ## Documentation and Install
 - [Documentation](https://help.toxicdev.me/internal/toxic-anticheat/)
