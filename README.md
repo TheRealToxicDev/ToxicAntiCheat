@@ -158,7 +158,7 @@ Code | Values | Type
 `set toxicanticheat.VPNKey "UXZyszcyjZ8KYQeDPyfUTs83mj2Nagdd9EVWWtVSk9GJEHpZne=="` | The API key you have from [IPHub](https://iphub.info/) - https://iphub.info/ | `string`
 
 ### VPN Checker
-Because hackers often use a VPN or change their IP after being banned from the server, there is a VPN blocker in andripwnAntiCheat. This VPN blocker use information from [IPHub](https://iphub.info/). To use this VPN blocker you must create an account on [IPHub](https://iphub.info/) and create a (free) API Key. After creating an account, you get 1.000 requests every day for free, if you use more then a 1.000 every day then you need to upgrade your free API, you will get charged for this. andripwnAntiCheat has a built-in IP cache, which means that it stores all IPs from the earlier request. The cache is completely empty after restarting the server or andripwnAntiCheat resource himself.
+Because hackers often use a VPN or change their IP after being banned from the server, there is a VPN blocker in andripwnAntiCheat. This VPN blocker use information from [IPHub](https://iphub.info/). To use this VPN blocker you must create an account on [IPHub](https://iphub.info/) and create a (free) API Key. After creating an account, you get 1.000 requests every day for free, if you use more then a 1.000 every day then you need to upgrade your free API, you will get charged for this. TheRealToxicDev has a built-in IP cache, which means that it stores all IPs from the earlier request. The cache is completely empty after restarting the server or TheRealToxicDevs resource.
 
 
 ### Disclamer
