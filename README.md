@@ -1,5 +1,5 @@
 [![Developer](https://img.shields.io/badge/Developer-TheRealToxicDev-darkgreen)](https://github.com/TheRealToxicDev)
-[![Version](https://img.shields.io/badge/Version-1.0.0-darkgreen)](https://github.com/TheRealToxicDev/ToxicAntiCheat/blob/master/version)
+[![Version](https://img.shields.io/badge/Version-2.0.0-darkgreen)](https://github.com/TheRealToxicDev/ToxicAntiCheat/blob/master/version)
 [![Version](https://img.shields.io/badge/License-MIT-darkgreen)](https://github.com/TheRealToxicDev/ToxicAntiCheat/blob/master/LICENSE)
 
 ToxicAntiCheat is a resource for FiveM to detect hackers and ban them from your server.
@@ -16,3 +16,4 @@ Also, using this resource is at your own risk and is not a magical resource that
 - [Configuration](https://help.toxicdev.me/internal/toxic-anticheat/setup/)
 - [Bypassing](https://help.toxicdev.me/internal/toxic-anticheat/bypass/)
 - [Enabling](https://help.toxicdev.me/internal/toxic-anticheat/enable/)
+- [Changelog](https://help.toxicdev.me/changelog/anticheat/v2.0.0/)
