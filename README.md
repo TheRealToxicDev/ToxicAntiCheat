@@ -4,7 +4,8 @@
 
 ToxicAntiCheat is a resource for FiveM to detect hackers and ban them from your server.
 
-⚠️ Not following all the instructions will result in a possible ban, this resource cannot work correctly without proper installation. ⚠️
+## ⚠️ WARNING
+Not following all the instructions will result in a possible ban, this resource cannot work correctly without proper installation.
 
 Using this resource is at your own risk it is not a magical resource that will stop all hackers.
 
