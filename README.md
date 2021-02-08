@@ -1,4 +1,4 @@
-[![Developer](https://img.shields.io/badge/Developer-andripwnDevelopment-darkgreen)](https://github.com/TheRealToxicDev)
+[![Developer](https://img.shields.io/badge/Developer-TheRealToxicDev-darkgreen)](https://github.com/TheRealToxicDev)
 [![Version](https://img.shields.io/badge/Version-1.0.0-darkgreen)](https://github.com/TheRealToxicDev/ToxicAntiCheat/blob/master/version)
 [![Version](https://img.shields.io/badge/License-MIT-darkgreen)](https://github.com/TheRealToxicDev/ToxicAntiCheat/blob/master/LICENSE)
 
