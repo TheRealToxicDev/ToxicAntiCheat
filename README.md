@@ -22,3 +22,8 @@ Using this resource is at your own risk it is not a magical resource that will s
 - [Bypassing](https://help.toxicdev.me/internal/toxic-anticheat/bypass/)
 - [Enabling](https://help.toxicdev.me/internal/toxic-anticheat/enable/)
 - [Changelog](https://help.toxicdev.me/changelog/anticheat/v2.0.0/)
+
+---
+
+## Support
+- [Discord](https://redirect.toxicdev.me/discord)
